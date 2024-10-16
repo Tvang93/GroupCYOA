@@ -1,6 +1,7 @@
 Group 8: Ian Chesley, Thao Vang, Brock Spacek
 
 Assignment: Group Choose Your Own Adventure
+
 Brief Description: 
   Create a new website that is a Choose Your Own Adventure game with styles
      - Use Text to tell the story
