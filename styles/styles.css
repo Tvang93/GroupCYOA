@@ -28,7 +28,7 @@ body {
 }
 
 .iconHeight {
-    height: 30rem;
+    height: 18rem;
 }
 
 .evenly {
@@ -36,9 +36,9 @@ body {
 }
 
 #tagPadding {
-    padding-top: 5rem;
+    padding-top: 1rem;
 }
 
 .textboxPadding {
-    padding-top: 9rem;
+    padding-top: 7rem;
 }
