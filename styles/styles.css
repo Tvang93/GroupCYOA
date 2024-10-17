@@ -22,3 +22,23 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.flexDisplay {
+    display: flex
+}
+
+.iconHeight {
+    height: 30rem;
+}
+
+.evenly {
+    justify-content: space-around;
+}
+
+#tagPadding {
+    padding-top: 5rem;
+}
+
+.textboxPadding {
+    padding-top: 9rem;
+}
