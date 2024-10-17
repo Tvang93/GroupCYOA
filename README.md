@@ -19,6 +19,15 @@ Brief Description:
 
 Peer Reviewed:
 
+<<<<<<< HEAD
+
+
+
+
+Our CYOA story:
+
+=======
+>>>>>>> a533cf6a89af5372f9cc3c1764c627247aa0e744
 Player is recruited to fight a Swamp Hag. They are offered to train for the fight under one of 3 tutors: a Knight, a Priest, or a Mage.
 Once player has learned under their mentor, they traverse the swamp and encounter the Hag. The fight begins, and two different choices show up depending on who mentored them.
 Knight choices (Sword, Spear) Sword: The blade is too short and does not reach the Hag before you get turned into a toad [fail].  Spear: Your spear reaches the Hag before she finishes chanting her spell [win].
