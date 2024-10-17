@@ -1,0 +1,44 @@
+
+body {
+    background-image: url("../assets/haghome.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.whiteColorText {
+    color: white;
+    background-color: black;
+    font-size: 3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.textBox {
+    width: 100rem;
+}
+
+.centerDisplay {
+    display: flex;
+    justify-content: center;
+}
+
+.flexDisplay {
+    display: flex
+}
+
+.iconHeight {
+    height: 30rem;
+}
+
+.evenly {
+    justify-content: space-around;
+}
+
+#tagPadding {
+    padding-top: 5rem;
+}
+
+.textboxPadding {
+    padding-top: 9rem;
+}
