@@ -42,3 +42,9 @@ body {
 .textboxPadding {
     padding-top: 7rem;
 }
+
+.btnSize {
+    width: 15rem;
+    height: 3rem;
+    font-size: 2.4rem;
+}
