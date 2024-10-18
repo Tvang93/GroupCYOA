@@ -19,6 +19,7 @@ Brief Description:
      - Code will be submitted and the pdf file for each person
      - Link to the Repo in the comments
 
-Peer Reviewed:
+Peer Reviewed: Andrew Sayasing
+  - Code is good and checks out. I enjoyed the narritive and theme. In contrast to ours, I liked how they made the "buttons" images instead to emphasize the choices. All in all, good job!
 
 
