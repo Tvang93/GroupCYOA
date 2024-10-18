@@ -35,7 +35,7 @@ body {
     justify-content: space-around;
 }
 
-#tagPadding {
+.tagPadding {
     padding-top: 1rem;
 }
 
