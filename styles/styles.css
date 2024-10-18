@@ -31,7 +31,7 @@ body {
     height: 18rem;
 }
 
-.evenly {
+.space-around {
     justify-content: space-around;
 }
 
