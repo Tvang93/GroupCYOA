@@ -9,13 +9,13 @@ body {
 .whiteColorText {
     color: white;
     background-color: black;
-    font-size: 3rem;
+    font-size: 2.4rem;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 
 .textBox {
-    width: 100rem;
+    width: 85rem;
 }
 
 .centerDisplay {
@@ -31,14 +31,44 @@ body {
     height: 18rem;
 }
 
-.evenly {
+.space-around {
     justify-content: space-around;
 }
 
-#tagPadding {
+.tagPadding {
     padding-top: 1rem;
 }
 
 .textboxPadding {
     padding-top: 7rem;
+}
+
+.btnSize {
+    width: 15rem;
+    height: 3rem;
+    font-size: 2.4rem;
+}
+
+.red-text {
+    color: red;
+    background-color: black;
+    font-size: 2.4rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.yellow-text {
+    color: yellow;
+    background-color: black;
+    font-size: 2.4rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.green-text {
+    color: green;
+    background-color: black;
+    font-size: 2.4rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
